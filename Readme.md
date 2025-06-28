@@ -1,7 +1,7 @@
 
 ---
 
-````Markdown
+````markdown
 # 🐍 Snake Game in Python with Pygame
 
 This is a classic Snake game implemented in Python using the Pygame library. The game features:
@@ -19,7 +19,7 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 1. Run the game:
    ```bash
    python snake_game.py
-
+````
 
 2. Choose difficulty at the start screen:
 
@@ -69,7 +69,6 @@ python snake_game.py
 
 ---
 
-
 ## 📄 License
 
 This project is open-source and free to use for learning or personal use.
@@ -90,6 +89,9 @@ Siddharth Aleti
 
 Enjoy playing your own version of Snake! 🎉
 
-````
+`````
+
+---
 
 
+`````
