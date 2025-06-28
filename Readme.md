@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🐍 Snake Game in Python with Pygame
 
 This is a classic Snake game implemented in Python using the Pygame library. The game features:
@@ -21,16 +17,13 @@ This is a classic Snake game implemented in Python using the Pygame library. The
    python snake_game.py
    ```
 
-
 2. Choose difficulty at the start screen:
-
-   * Press **E** for Easy (slow speed)
-   * Press **M** for Medium (moderate speed)
-   * Press **H** for Hard (fast speed)
+   - Press **E** for Easy (slow speed)
+   - Press **M** for Medium (moderate speed)
+   - Press **H** for Hard (fast speed)
 
 3. Use arrow keys to control the snake:
-
-   * **Up/Down/Left/Right** to change direction.
+   - **Up/Down/Left/Right** to change direction.
 
 4. Eat red food blocks to grow.
 
@@ -40,20 +33,19 @@ This is a classic Snake game implemented in Python using the Pygame library. The
 
 ## 🛠️ Features
 
-* **Difficulty levels**: Adjusts snake speed for an easier or harder challenge.
-* **Through-walls**: Snake wraps from one side of the screen to the opposite side, adding new gameplay dynamics.
-* **Score display**: Tracks your current score based on food eaten.
-* **Game over screen**: Option to play again or quit.
+- **Difficulty levels**: Adjusts snake speed for an easier or harder challenge.
+- **Through-walls**: Snake wraps from one side of the screen to the opposite side, adding new gameplay dynamics.
+- **Score display**: Tracks your current score based on food eaten.
+- **Game over screen**: Option to play again or quit.
 
 ---
 
 ## 📦 Requirements
 
-* Python 3.x
-* Pygame library
+- Python 3.x
+- Pygame library
 
 Install Pygame if you don't have it yet:
-
 ```bash
 pip install pygame
 ```
@@ -63,7 +55,6 @@ pip install pygame
 ## 🚀 Running the Game
 
 Make sure you're in the project folder containing `snake_game.py`, then run:
-
 ```bash
 python snake_game.py
 ```
@@ -89,9 +80,3 @@ Siddharth Aleti
 ---
 
 Enjoy playing your own version of Snake! 🎉
-
-`````
-
-
-
-`````
